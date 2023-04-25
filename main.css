@@ -1,5 +1,10 @@
+body{
+background:green;
+}
+
 h1{
-    color: brown;
+    color: red;
     background: cornsilk;
     padding: 1rem ;
+    text-align: center;
 }
